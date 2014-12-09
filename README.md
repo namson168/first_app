@@ -22,7 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
+TEST TEST
 Example*](http://railstutorial.org/)
 by
 [Michael
